@@ -1,0 +1,95 @@
+{
+    "gridSize": 5,
+    "grifo": {
+        "x": 0,
+        "y": 0,
+        "color": "orange"
+    },
+    "balde": {
+        "x": 4,
+        "y": 4,
+        "color": "red"
+    },
+    "pipes": [
+        {
+            "type": "straight",
+            "orientation": "E",
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "type": "corner",
+            "orientation": "S",
+            "position": {
+                "x": 0,
+                "y": 1
+            }
+        },
+        {
+            "type": "straight",
+            "orientation": "S",
+            "position": {
+                "x": 0,
+                "y": 2
+            }
+        },
+        {
+            "type": "corner",
+            "orientation": "E",
+            "position": {
+                "x": 1,
+                "y": 2
+            }
+        },
+        {
+            "type": "straight",
+            "orientation": "E",
+            "position": {
+                "x": 1,
+                "y": 3
+            }
+        },
+        {
+            "type": "corner",
+            "orientation": "S",
+            "position": {
+                "x": 2,
+                "y": 3
+            }
+        },
+        {
+            "type": "straight",
+            "orientation": "S",
+            "position": {
+                "x": 3,
+                "y": 3
+            }
+        },
+        {
+            "type": "straight",
+            "orientation": "S",
+            "position": {
+                "x": 4,
+                "y": 3
+            }
+        },
+        {
+            "type": "corner",
+            "orientation": "E",
+            "position": {
+                "x": 4,
+                "y": 3
+            }
+        },
+        {
+            "type": "straight",
+            "orientation": "E",
+            "position": {
+                "x": 4,
+                "y": 4
+            }
+        }
+    ]
+}
